@@ -12,5 +12,6 @@ To-do lista
 * JavaScript
 
 
-![to-dolista](https://user-images.githubusercontent.com/105555319/172951465-7f35983c-91a9-4d50-af55-c5bfcaaeeee3.png)
+![todolistt](https://user-images.githubusercontent.com/105555319/172951746-3e154bae-d36a-4305-9804-f3be2ee444a0.png)
+
 
