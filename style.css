@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient( 68.4deg,  rgba(99,251,215,1) -0.4%, rgba(5,222,250,1) 100.2% );
+}
+
+section { 
+    width: 800px;
+    background-image: linear-gradient( 180.4deg,  rgba(188, 120, 236, 0.677) -2.2%, rgba(29, 134, 163, 0.258) 83.5% );
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px black;
+    padding: 5px;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 50px;
+    text-shadow: 0 0 5px rgb(0, 32, 112);
+}
+
+h2 {
+    text-shadow: 0 0 5px rgb(24, 241, 0);
+    margin: 30px;
+}
+
+input, button {
+    border-radius: 5px;
+    border: 1px solid rgb(3, 176, 87);
+    box-shadow: 0 0 5px lime;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin: 3px;
+}
+
+button {
+    cursor: pointer;
+}
+
+ul{
+    margin-top: 30px;
+    padding: 20px 0;
+}
+
+
+
+li {
+    text-align: left;
+    margin: 15px;
+    padding: 5px;  
+    border-radius: 5px;
+    list-style: none;
+    background-color: white;
+}
+
+
+.btn1, .btn2 {
+    margin-left: 5px;
+}
+
+
+.btn2 {
+    border-radius: 50%;   
+    margin-right: 10px;
+}
+
+.btn1 {
+    border-radius: 3px;
+    border: 1px solid rgb(176, 3, 3);
+    box-shadow: 0 0 5px rgb(249, 54, 54);
+}
+
+.line {
+    text-decoration: line-through red;
+}
+
