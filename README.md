@@ -13,6 +13,8 @@ To-do lista
 
 
 
-![todolistt](https://user-images.githubusercontent.com/105555319/172951746-3e154bae-d36a-4305-9804-f3be2ee444a0.png)
+![Screenshot_6](https://user-images.githubusercontent.com/105555319/187288435-cc086cb2-6fc2-4b16-9ace-3e1c0177d200.png)
+![Screenshot_7](https://user-images.githubusercontent.com/105555319/187288450-ab734a50-6bc6-4ba4-a690-9a7f9f389c77.png)
+
 
 
