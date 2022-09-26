@@ -13,7 +13,7 @@ const removeTask = (e) => {
 }
 
 const lineThrough = (e) => {
-    e.target.parentNode.style.textDecoration = 'line-through red'
+    e.target.parentNode.style.textDecoration = 'line-through green'
 }
 
 
