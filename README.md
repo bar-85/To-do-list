@@ -13,8 +13,12 @@ To-do lista
 
 
 
-![Screenshot_6](https://user-images.githubusercontent.com/105555319/187288435-cc086cb2-6fc2-4b16-9ace-3e1c0177d200.png)
-![Screenshot_7](https://user-images.githubusercontent.com/105555319/187288450-ab734a50-6bc6-4ba4-a690-9a7f9f389c77.png)
+![Screenshot_17](https://user-images.githubusercontent.com/105555319/192363532-42009cfd-42b2-4449-a7bd-f830ff044642.png)
+<br />
+<br />
+![Screenshot_16](https://user-images.githubusercontent.com/105555319/192363578-ae87b2f7-120a-4bb3-a340-3ecdb0bf4bdd.png)
+
+
 
 
 
