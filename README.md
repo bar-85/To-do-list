@@ -2,7 +2,7 @@
 To-do lista
 
 
->To-do Listę można zobaczyć pod adresem: https://bar-85.github.io/To-do-list/
+>To-do Listę można zobaczyć pod adresem: https://new-todo-list0.netlify.app/
 
 
 
